@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## My LinkedIN
 
-> ![[https://www.linkedin.com/feed/](https://raw.githubusercontent.com/Kerasu/Kerasu.github.io/refs/heads/main/linkedin.png)
+> ![LinkedIN](https://raw.githubusercontent.com/Kerasu/Kerasu.github.io/refs/heads/main/linkedin.png "My Linked In Profile").].(https://www.linkedin.com/feed/) 
 
 
 ### Header 3

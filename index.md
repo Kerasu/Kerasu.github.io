@@ -14,11 +14,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 - [Home Lab](https://github.com/Kerasu/Home-Lab/blob/main/README.md)
 
-## Header 2
+## My LinkedIN
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> [LinkedIN](https://github.com/Kerasu/Kerasu.github.io/blob/main/linkedin.png?raw=true)
+
 
 ### Header 3
 

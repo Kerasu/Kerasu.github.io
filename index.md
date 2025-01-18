@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## My LinkedIN
 
-> <a href="https://www.linkedin.com/feed/"><img>https://raw.githubusercontent.com/Kerasu/Kerasu.github.io/refs/heads/main/linkedin.png</img></a>
+> <img src="https://raw.githubusercontent.com/Kerasu/Kerasu.github.io/refs/heads/main/linkedin.png"</img>
 
 
 ### Header 3

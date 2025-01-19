@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # My Projects  
 
 - [Home Lab](https://github.com/Kerasu/Home-Lab/blob/main/README.md)
+- [SIEM Lab](https://github.com/Kerasu/SIEM-LAB)
 
 ## My LinkedIN
 

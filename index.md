@@ -4,7 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[My TryHackMe Profile](https://tryhackme.com/r/p/Kyou).
 
 There should be whitespace between paragraphs.
 
@@ -16,11 +15,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - [SIEM Lab](https://github.com/Kerasu/SIEM-LAB)
 - [Malware Analysis](https://github.com/Kerasu/Malware-Analysis)
 
-## My LinkedIN
+## Socials
 
 [LinkedIN](https://www.linkedin.com/feed/)
 
-### Header 3
+### My progress on THM/HTB/etc
+
+[My TryHackMe Profile](https://tryhackme.com/r/p/Kyou)
 
 ```js
 // Javascript code with syntax highlighting.

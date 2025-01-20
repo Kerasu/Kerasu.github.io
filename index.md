@@ -14,6 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 - [Home Lab](https://github.com/Kerasu/Home-Lab/blob/main/README.md)
 - [SIEM Lab](https://github.com/Kerasu/SIEM-LAB)
+- [Malware Analysis](https://github.com/Kerasu/Malware-Analysis)
 
 ## My LinkedIN
 
